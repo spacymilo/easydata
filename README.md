@@ -75,7 +75,7 @@ EasyData.server:ArrayRemove(player, "Inventory", 1)
 
 ```lua
 EasyData.server:GetChangedSignal(player, "Coins"):Connect(function(new, old)
-    print("Coins changed:", old, "→", new)
+    print("Coins changed:", old, "->", new)
 end)
 ```
 
