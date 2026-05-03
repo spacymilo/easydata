@@ -1,12 +1,6 @@
 # EasyData
 
-EasyData is a simple data system for Roblox that keeps things clean and predictable:
-
-* The **server owns the data**
-* The **client gets a synced copy**
-* You can **listen to changes easily**
-
-It’s built to be lightweight, fast to set up, and flexible enough for bigger projects like RPGs.
+EasyData is a simple data system for Roblox that keeps things clean and predictable.
 
 ---
 
